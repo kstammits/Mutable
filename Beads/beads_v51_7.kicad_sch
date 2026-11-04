@@ -123,730 +123,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "beads_v51-eagle-import:A4L-LOC"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#FRAME"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "FRAME\n\nDIN A4, landscape with location and doc. field"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "DRAWING_NAME" ""
-				(at 217.17 15.24 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 2.54 2.159)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "LAST_DATE_TIME" ""
-				(at 217.17 10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 2.286 1.9431)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "SHEET" ""
-				(at 230.505 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 2.54 2.159)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "A4L-LOC_1_0"
-				(polyline
-					(pts
-						(xy 0 179.07) (xy 260.35 179.07) (xy 260.35 0) (xy 0 0) (xy 0 179.07)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 134.3025) (xy 3.81 134.3025)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 89.535) (xy 3.81 89.535)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 44.7675) (xy 3.81 44.7675)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 175.26) (xy 3.81 3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 43.3917 179.07) (xy 43.3917 175.26)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 43.3917 3.81) (xy 43.3917 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 86.7833 179.07) (xy 86.7833 175.26)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 86.7833 3.81) (xy 86.7833 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 130.175 179.07) (xy 130.175 175.26)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 130.175 3.81) (xy 130.175 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 161.29 24.13) (xy 215.265 24.13)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 161.29 3.81) (xy 161.29 24.13)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 173.5667 179.07) (xy 173.5667 175.26)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 173.5667 3.81) (xy 173.5667 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 215.265 24.13) (xy 256.54 24.13)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 215.265 19.05) (xy 215.265 24.13)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 215.265 19.05) (xy 256.54 19.05)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 215.265 13.97) (xy 215.265 19.05)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 215.265 13.97) (xy 256.54 13.97)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 215.265 8.89) (xy 215.265 13.97)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 215.265 8.89) (xy 215.265 3.81)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 216.9583 179.07) (xy 216.9583 175.26)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 216.9583 3.81) (xy 216.9583 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 246.38 8.89) (xy 215.265 8.89)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 246.38 8.89) (xy 256.54 8.89)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 246.38 3.81) (xy 246.38 8.89)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 175.26) (xy 3.81 175.26)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 175.26) (xy 256.54 3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 134.3025) (xy 260.35 134.3025)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 89.535) (xy 260.35 89.535)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 44.7675) (xy 260.35 44.7675)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 19.05) (xy 256.54 24.13)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 13.97) (xy 256.54 19.05)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 8.89) (xy 256.54 13.97)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 3.81) (xy 3.81 3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 256.54 3.81) (xy 256.54 8.89)
-					)
-					(stroke
-						(width 0.1016)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "A"
-					(at 1.905 156.6863 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "B"
-					(at 1.905 111.9188 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "C"
-					(at 1.905 67.1513 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "D"
-					(at 1.905 22.3838 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "1"
-					(at 21.6958 177.165 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "1"
-					(at 21.6958 1.905 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "2"
-					(at 65.0875 177.165 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "2"
-					(at 65.0875 1.905 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "3"
-					(at 108.4792 177.165 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "3"
-					(at 108.4792 1.905 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "4"
-					(at 151.8708 177.165 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "4"
-					(at 151.8708 1.905 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "5"
-					(at 195.2625 177.165 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "5"
-					(at 195.2625 1.905 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "Sheet:"
-					(at 216.916 4.953 0)
-					(effects
-						(font
-							(size 2.54 2.159)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "6"
-					(at 238.6542 177.165 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "6"
-					(at 238.6542 1.905 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "A"
-					(at 258.445 156.6863 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "B"
-					(at 258.445 111.9188 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "C"
-					(at 258.445 67.1513 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-				(text "D"
-					(at 258.445 22.3838 0)
-					(effects
-						(font
-							(size 2.54 2.286)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "beads_v51-eagle-import:ASMB-KTF0-0A306PLCC4"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3892,6 +3168,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "#GND18")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3966,6 +3248,12 @@
 		(instances
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
+					(reference "#GND14")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
 					(reference "#GND14")
 					(unit 1)
 				)
@@ -4069,6 +3357,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4082,7 +3376,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2da23168-9aa7-414f-9634-7d3c3ec62ab1")
-		(property "Reference" "LED4"
+		(property "Reference" "LED5"
 			(at 111.252 164.084 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4150,6 +3444,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "LED5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4163,7 +3463,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "30cdad1d-94d4-4a1b-837a-056ae02ae9a4")
-		(property "Reference" "R93"
+		(property "Reference" "R87"
 			(at 92.71 155.9814 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4228,6 +3528,12 @@
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
 					(reference "R93")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "R87")
 					(unit 1)
 				)
 			)
@@ -4309,6 +3615,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "#GND16")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4322,7 +3634,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48f5033d-5ecf-4d62-baeb-4a89943fa346")
-		(property "Reference" "R1"
+		(property "Reference" "R90"
 			(at 222.0214 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4387,6 +3699,12 @@
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "R90")
 					(unit 1)
 				)
 			)
@@ -4464,6 +3782,12 @@
 		(instances
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
+					(reference "#GND17")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
 					(reference "#GND17")
 					(unit 1)
 				)
@@ -4567,6 +3891,12 @@
 					(unit 2)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "SW2")
+					(unit 2)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4580,7 +3910,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6164c40f-5806-4a5c-ae94-3c31cef21047")
-		(property "Reference" "R91"
+		(property "Reference" "R85"
 			(at 92.71 135.6614 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4648,6 +3978,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "R85")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4661,7 +3997,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7b7d08eb-07a5-4190-8c8f-5fb3dbc1adc6")
-		(property "Reference" "LED3"
+		(property "Reference" "LED4"
 			(at 111.252 153.924 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4726,6 +4062,12 @@
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
 					(reference "LED3")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "LED4")
 					(unit 1)
 				)
 			)
@@ -4817,6 +4159,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4830,7 +4178,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8889e6be-ba3a-44a9-bca5-5ef09f321466")
-		(property "Reference" "LED2"
+		(property "Reference" "LED3"
 			(at 111.252 143.764 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4895,6 +4243,12 @@
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
 					(reference "LED2")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "LED3")
 					(unit 1)
 				)
 			)
@@ -4972,6 +4326,12 @@
 		(instances
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
+					(reference "#GND15")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
 					(reference "#GND15")
 					(unit 1)
 				)
@@ -5075,6 +4435,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5088,7 +4454,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9310e7f3-f648-4ca7-847d-e004f893ee18")
-		(property "Reference" "R92"
+		(property "Reference" "R88"
 			(at 92.71 166.1414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5153,6 +4519,12 @@
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
 					(reference "R92")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "R88")
 					(unit 1)
 				)
 			)
@@ -5255,6 +4627,12 @@
 					(unit 2)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "SW1")
+					(unit 2)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5333,6 +4711,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "#GND13")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5346,7 +4730,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9baffe2d-7f73-4780-b7c6-0204e5fb4a74")
-		(property "Reference" "R94"
+		(property "Reference" "R86"
 			(at 92.71 145.8214 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5411,6 +4795,12 @@
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
 					(reference "R94")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "R86")
 					(unit 1)
 				)
 			)
@@ -5492,111 +4882,9 @@
 					(unit 1)
 				)
 			)
-		)
-	)
-	(symbol
-		(lib_id "beads_v51-eagle-import:A4L-LOC")
-		(at 17.78 198.12 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bf7edecc-85d6-492a-8b16-2e4843719fb4")
-		(property "Reference" "#FRAME7"
-			(at 17.78 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "A4L-LOC"
-			(at 17.78 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 17.78 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 17.78 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 17.78 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DRAWING_NAME" ""
-			(at 248.285 199.644 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LAST_DATE_TIME" ""
-			(at 248.285 201.168 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "SHEET" ""
-			(at 248.285 202.692 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
 			(project "beads_v51"
-				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
-					(reference "#FRAME7")
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "#+3V5")
 					(unit 1)
 				)
 			)
@@ -5613,7 +4901,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4f42690-2620-4648-b1e7-d867f913bf1a")
-		(property "Reference" "R27"
+		(property "Reference" "R82"
 			(at 100.33 113.2586 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5681,6 +4969,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "R82")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5694,7 +4988,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e80673f0-b6d3-4d6c-a336-b1c984d5ca01")
-		(property "Reference" "R4"
+		(property "Reference" "R89"
 			(at 122.9614 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5762,6 +5056,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "R89")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5775,7 +5075,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f03c9b73-78bf-4269-ada6-4d440f6d3749")
-		(property "Reference" "R26"
+		(property "Reference" "R84"
 			(at 100.33 128.4986 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5843,6 +5143,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "R84")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5856,7 +5162,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0b2cdbf-11c6-4970-8bb6-6e14796ccfc3")
-		(property "Reference" "LED5"
+		(property "Reference" "LED2"
 			(at 111.252 133.604 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5924,6 +5230,12 @@
 					(unit 1)
 				)
 			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "LED2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5937,7 +5249,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f904b608-8406-41d1-9972-ded0d1891ffd")
-		(property "Reference" "R25"
+		(property "Reference" "R83"
 			(at 100.33 120.8786 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6002,6 +5314,12 @@
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
 					(reference "R25")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "R83")
 					(unit 1)
 				)
 			)
@@ -6088,6 +5406,12 @@
 		(instances
 			(project "beads_v51"
 				(path "/0551ec70-ff35-4370-990e-262659fb8d21"
+					(reference "LED1")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
 					(reference "LED1")
 					(unit 1)
 				)
@@ -6180,11 +5504,12 @@
 					(unit 1)
 				)
 			)
-		)
-	)
-	(sheet_instances
-		(path "/"
-			(page "7")
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/36c338b7-8b05-4c95-9023-87334a1bb271"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
 		)
 	)
 )

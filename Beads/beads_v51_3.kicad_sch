@@ -2158,6 +2158,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "#AGND95")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "#AGND95")
 					(unit 1)
@@ -2176,7 +2182,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22a99736-3cb5-493c-b141-c565c8f543c6")
-		(property "Reference" "R12"
+		(property "Reference" "R44"
 			(at 222.25 95.0214 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2239,6 +2245,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R44")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R12")
 					(unit 1)
@@ -2258,7 +2270,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "344ddf46-486a-48d7-b820-3b35069827ff")
-		(property "Reference" "J10"
+		(property "Reference" "J8"
 			(at 177.8 82.296 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2324,6 +2336,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "J10")
 					(unit 1)
@@ -2342,7 +2360,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3c87e623-9806-4890-ae5e-b1622e5c3ba0")
-		(property "Reference" "R10"
+		(property "Reference" "R43"
 			(at 206.7814 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2405,6 +2423,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R43")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R10")
 					(unit 1)
@@ -2423,7 +2447,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4b57c44e-183c-4deb-9a99-fc0846686081")
-		(property "Reference" "R80"
+		(property "Reference" "R39"
 			(at 171.45 62.0014 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2486,6 +2510,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R39")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R80")
 					(unit 1)
@@ -2504,7 +2534,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5fbfd2e7-7120-438e-ae7c-34a0d11ddb4e")
-		(property "Reference" "R18"
+		(property "Reference" "R38"
 			(at 85.09 95.0214 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2566,6 +2596,12 @@
 			(uuid "327b75f1-18d0-4b6e-bd1d-53b5c59f84e3")
 		)
 		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R38")
+					(unit 1)
+				)
+			)
 			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R18")
@@ -2645,6 +2681,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "#+3V39")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "#+3V39")
 					(unit 1)
@@ -2722,6 +2764,12 @@
 			(uuid "90ac3d9c-ef0b-4f7a-b757-3dad3e733e35")
 		)
 		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "#+3V38")
+					(unit 1)
+				)
+			)
 			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "#+3V38")
@@ -2801,6 +2849,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "#AGND16")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "#AGND16")
 					(unit 1)
@@ -2819,7 +2873,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "804f9b41-d564-470a-9aac-1adafcf5f063")
-		(property "Reference" "R14"
+		(property "Reference" "R42"
 			(at 206.7814 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2882,6 +2936,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R42")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R14")
 					(unit 1)
@@ -2900,7 +2960,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93096817-ebc2-4b57-ac33-1dcd89455efd")
-		(property "Reference" "R20"
+		(property "Reference" "R37"
 			(at 69.6214 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2963,6 +3023,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R37")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R20")
 					(unit 1)
@@ -2981,7 +3047,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "992bbe05-35ab-449b-b9b3-5116e97c2fed")
-		(property "Reference" "R88"
+		(property "Reference" "R40"
 			(at 196.6214 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3043,6 +3109,12 @@
 			(uuid "a1470ada-056d-4673-9e8a-88d58afa0f47")
 		)
 		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R40")
+					(unit 1)
+				)
+			)
 			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R88")
@@ -3162,6 +3234,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "IC2")
+					(unit 3)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "IC2")
 					(unit 3)
@@ -3180,7 +3258,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a1b25598-dd9f-4579-a486-f703465f778f")
-		(property "Reference" "R11"
+		(property "Reference" "R41"
 			(at 204.47 82.3214 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3243,6 +3321,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R41")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R11")
 					(unit 1)
@@ -3261,7 +3345,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a4d252da-b135-44f0-a268-9458144e5baa")
-		(property "Reference" "R17"
+		(property "Reference" "R34"
 			(at 67.31 82.3214 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3323,6 +3407,12 @@
 			(uuid "bf4fe961-0a09-4977-9789-b4f92edb2748")
 		)
 		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R34")
+					(unit 1)
+				)
+			)
 			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R17")
@@ -3442,6 +3532,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "IC2")
+					(unit 4)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "IC2")
 					(unit 4)
@@ -3520,6 +3616,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "#AGND18")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "#AGND18")
 					(unit 1)
@@ -3538,7 +3640,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af9a81bc-9fe2-4a5f-8cca-04f7cdf06138")
-		(property "Reference" "R15"
+		(property "Reference" "R35"
 			(at 69.6214 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3601,6 +3703,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R15")
 					(unit 1)
@@ -3620,7 +3728,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7c7d60a-b147-4758-b9f2-66e56f52e0a0")
-		(property "Reference" "J9"
+		(property "Reference" "J7"
 			(at 40.64 82.296 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3685,6 +3793,12 @@
 			(uuid "bdfaa3a9-64d5-4685-9498-3a7498bc1b73")
 		)
 		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "J7")
+					(unit 1)
+				)
+			)
 			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "J9")
@@ -3764,6 +3878,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "#AGND94")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "#AGND94")
 					(unit 1)
@@ -3841,6 +3961,12 @@
 			(uuid "a0887379-70aa-42e2-8f7d-53ec65dda371")
 		)
 		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "#AGND17")
+					(unit 1)
+				)
+			)
 			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "#AGND17")
@@ -3920,6 +4046,12 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "#AGND19")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "#AGND19")
 					(unit 1)
@@ -3938,7 +4070,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc2bcf5b-a311-432e-9028-0f98e7c8ddfe")
-		(property "Reference" "R87"
+		(property "Reference" "R33"
 			(at 59.4614 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4001,16 +4133,17 @@
 		)
 		(instances
 			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f/bc10107e-43c2-491e-91e8-a80c65e5dacb"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+			(project "beads_v51"
 				(path "/c2a79c2f-dc89-473e-8b3d-cd930dd03c65"
 					(reference "R87")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(sheet_instances
-		(path "/"
-			(page "3")
 		)
 	)
 )

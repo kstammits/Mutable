@@ -1,0 +1,382 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "79fcf35b-6e5c-4078-90bc-9be9d62ce7df")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 36.83 158.115)
+		(size 30.48 6.985)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "36c338b7-8b05-4c95-9023-87334a1bb271")
+		(property "Sheetname" "Sheet7"
+			(at 36.83 157.4034 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "beads_v51_7.kicad_sch"
+			(at 36.83 165.6846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 34.29 175.26)
+		(size 39.37 10.795)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "44eabefb-4063-4c25-a433-7b5479ae4cc6")
+		(property "Sheetname" "Sheet8"
+			(at 34.29 174.5484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "beads_v51_8.kicad_sch"
+			(at 34.29 186.6396 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.305 38.1)
+		(size 27.94 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4f002906-5cea-42e8-9f76-d66ebc381af0")
+		(property "Sheetname" "Sheet2"
+			(at 27.305 37.3884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "beads_v51_2.kicad_sch"
+			(at 27.305 45.0346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.655 75.565)
+		(size 24.765 10.795)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "831f519f-377b-4df6-9787-7ac26cf13d2d")
+		(property "Sheetname" "Sheet4"
+			(at 33.655 74.8534 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "beads_v51_4.kicad_sch"
+			(at 33.655 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 127.635)
+		(size 36.195 13.335)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a156c98a-4424-44cb-bbfb-b7fbc0445e18")
+		(property "Sheetname" "Sheet6"
+			(at 30.48 126.9234 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "beads_v51_6.kicad_sch"
+			(at 30.48 141.5546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.305 23.495)
+		(size 26.67 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a305b91f-6276-4c29-b617-e7b7a8338107")
+		(property "Sheetname" "Sheet1"
+			(at 27.305 22.7834 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "beads_v51.kicad_sch"
+			(at 27.305 30.4296 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 55.245)
+		(size 31.75 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bc10107e-43c2-491e-91e8-a80c65e5dacb")
+		(property "Sheetname" "Sheet3"
+			(at 24.13 54.5334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "beads_v51_3.kicad_sch"
+			(at 24.13 64.7196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.655 99.06)
+		(size 26.67 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "eb163d5a-2f09-4c2e-bcfc-a255d31ced97")
+		(property "Sheetname" "Sheet5"
+			(at 33.655 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "beads_v51_5.kicad_sch"
+			(at 33.655 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beads_v51"
+				(path "/4f2a9659-989e-4dc6-8460-55e63c96290f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "0")
+		)
+	)
+	(embedded_fonts no)
+)
