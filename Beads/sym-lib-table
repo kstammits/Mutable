@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "beads_v51-eagle-import") (type "KiCad") (uri "${KIPRJMOD}/beads_v51-eagle-import.kicad_sym") (options "") (descr ""))
+)
